@@ -40,3 +40,8 @@ keymap.set("n", "<leader>lc","<cmd>VimtexCompile<CR>", {desc = "Compile current 
 keymap.set("n", "<leader>lv","<cmd>VimtexView<CR>", {desc = "View Compiled file"})
 keymap.set("n", "<leader>lx","<cmd>VimtexClean<CR>", {desc = "Clean compiled file"})
 
+--Silicon
+keymap.set("v", "<leader>ss","<cmd>Silicon<CR>", {desc = "Create code screenshot"})
+
+
+
