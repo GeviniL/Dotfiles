@@ -5,6 +5,8 @@
 
 !/nvim/
 !/nvim/**
+!/fish/**
+!/zathurarc/**
 
 
 !/.gitignore
