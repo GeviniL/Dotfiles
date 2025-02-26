@@ -9,7 +9,6 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-exec_always --no-startup-id xrdb -merge ~/.Xresources
 
 set $mod Mod1
 exec_always --no-startup-id xrandr --output DP-0 --mode 2560x1440 --rate 359.98
