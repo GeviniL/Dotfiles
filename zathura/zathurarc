@@ -1,0 +1,96 @@
+# set notification-error-bg "#282828"
+# set notification-error-fg "#fb4934"
+# set notification-warning-bg "#282828"
+# set notification-warning-fg "#fabd2f"
+# set notification-bg "#282828"
+# set notification-fg "#b8bb26"
+# set completion-bg "#504945"
+# set completion-fg "#ebdbb2"
+# set completion-group-bg "#3c3836"
+# set completion-group-fg "#928374"
+# set completion-highlight-bg "#83a598"
+# set completion-highlight-fg "#504945"
+# set index-bg "#282828"
+# set index-fg "#ebdbb2"
+# set index-active-bg "#83a598"
+# set index-active-fg "#282828"
+# set inputbar-bg "#282828"
+# set inputbar-fg "#ebdbb2"
+# set statusbar-bg "#282828"
+# set statusbar-fg "#ebdbb2"
+# set highlight-color "#fabd2f"
+# set highlight-active-color "#fe8019"
+# set default-bg "#282828"
+# set default-fg "#ebdbb2"
+# set render-loading true
+# set render-loading-bg "#282828"
+# set render-loading-fg "#ebdbb2"
+# set recolor-lightcolor "#282828"
+# set recolor-darkcolor "#ebdbb2"
+# set recolor "true"
+
+
+set default-fg                rgba(205,214,244,1)
+set default-bg 			          rgba(30,30,46,1)
+
+set completion-bg		          rgba(49,50,68,1)
+set completion-fg		          rgba(205,214,244,1)
+set completion-highlight-bg	  rgba(87,82,104,1)
+set completion-highlight-fg	  rgba(205,214,244,1)
+set completion-group-bg		    rgba(49,50,68,1)
+set completion-group-fg		    rgba(137,180,250,1)
+
+set statusbar-fg		          rgba(205,214,244,1)
+set statusbar-bg		          rgba(49,50,68,1)
+
+set notification-bg		        rgba(49,50,68,1)
+set notification-fg		        rgba(205,214,244,1)
+set notification-error-bg	    rgba(49,50,68,1)
+set notification-error-fg	    rgba(243,139,168,1)
+set notification-warning-bg	  rgba(49,50,68,1)
+set notification-warning-fg	  rgba(250,227,176,1)
+
+set inputbar-fg			          rgba(205,214,244,1)
+set inputbar-bg 		          rgba(49,50,68,1)
+
+set recolor                   "true"
+set recolor-lightcolor		    rgba(30,30,46,1)
+set recolor-darkcolor		      rgba(205,214,244,1)
+
+set index-fg			            rgba(205,214,244,1)
+set index-bg			            rgba(30,30,46,1)
+set index-active-fg		        rgba(205,214,244,1)
+set index-active-bg		        rgba(49,50,68,1)
+
+set render-loading-bg		      rgba(30,30,46,1)
+set render-loading-fg		      rgba(205,214,244,1)
+
+set highlight-color		        rgba(87,82,104,0.5)
+set highlight-fg              rgba(245,194,231,0.5)
+set highlight-active-color	  rgba(245,194,231,0.5)
+
+
+
+#
+set adjust-open width
+set recolor true
+
+
+set first-page-column 1:1
+set adjust-open "best-fit"
+set statusbar-h-padding 0
+set statusbar-v-padding o 
+set pages-per-row 2
+set page-padding 1
+set zoom-min 5
+set guioptions ""
+
+map + zoom in
+map - zoom out
+map d toggle_page_mode
+
+
+map a adjust_window best-fit
+map s adjust_window width
+
+set font "MesloLGS Nerd Font Mono normal 16"
