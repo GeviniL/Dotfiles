@@ -2,11 +2,25 @@
 
 
 
+!/i3/
+!/i3/**
+
+
+!/kitty/
+!/kitty/**
+
 
 !/nvim/
 !/nvim/**
-!/fish/**
-!/zathurarc/**
+
+!/zathura/
+!/zathura/**
+
+!/picom/
+!/picom/**
+
+!/polybar/
+!/polybar/**
 
 
 !/.gitignore
