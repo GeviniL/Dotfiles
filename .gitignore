@@ -8,6 +8,9 @@
 !/kitty/
 !/kitty/**
 
+!/dunst/
+!/dunst/**
+
 
 !/nvim/
 !/nvim/**
