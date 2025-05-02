@@ -26,6 +26,7 @@
 =======
 !/.tmux.conf
 # !/fish/
+!/fish/**
 !/nvim/
 !/nvim/**
 # !/fish/**
