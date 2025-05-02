@@ -25,7 +25,7 @@
 !/polybar/**
 =======
 !/.tmux.conf
-# !/fish/
+ !/fish/
 !/fish/**
 !/nvim/
 !/nvim/**
