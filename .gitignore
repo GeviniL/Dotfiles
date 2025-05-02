@@ -25,11 +25,10 @@
 !/polybar/**
 =======
 !/.tmux.conf
- !/fish/
+!/fish/
 !/fish/**
 !/nvim/
 !/nvim/**
-# !/fish/**
 >>>>>>> Stashed changes
 
 
