@@ -29,6 +29,19 @@
 !/fish/**
 !/nvim/
 !/nvim/**
+
+!/hypr/
+!/hypr/**
+
+!/hyprpanel/
+!/hyprpanel/**
+
+!/wallpapers/
+!/wallpapers/**
+
+!/kvantum/
+!/kvantum/**
+
 >>>>>>> Stashed changes
 
 
